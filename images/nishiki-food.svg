@@ -1,0 +1,28 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="nf" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#ffe4c0"/>
+<stop offset="100%" stop-color="#c99a1e"/>
+</linearGradient>
+</defs>
+<rect width="400" height="300" fill="url(#nf)"/>
+<!-- skewers on tray -->
+<ellipse cx="200" cy="220" rx="160" ry="28" fill="#3a2a1f"/>
+<g>
+<line x1="90" y1="150" x2="90" y2="215" stroke="#8a5a3a" stroke-width="4"/>
+<circle cx="90" cy="160" r="12" fill="#c1401f"/>
+<circle cx="90" cy="182" r="12" fill="#e0824a"/>
+<circle cx="90" cy="204" r="12" fill="#c1401f"/>
+</g>
+<g>
+<line x1="160" y1="140" x2="160" y2="215" stroke="#8a5a3a" stroke-width="4"/>
+<rect x="148" y="150" width="24" height="18" fill="#ffe066" rx="4"/>
+<rect x="148" y="176" width="24" height="18" fill="#f2c6a0" rx="4"/>
+</g>
+<!-- takoyaki-like balls -->
+<circle cx="250" cy="195" r="14" fill="#e0824a"/>
+<circle cx="278" cy="200" r="14" fill="#e0824a"/>
+<circle cx="264" cy="210" r="14" fill="#e0824a"/>
+<!-- pickles jar -->
+<rect x="320" y="160" width="40" height="55" rx="6" fill="#5c8a5c" opacity="0.85"/>
+</svg>

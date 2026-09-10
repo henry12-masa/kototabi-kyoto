@@ -1,0 +1,21 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="y1" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#c7e0a8"/>
+<stop offset="100%" stop-color="#2f6d4f"/>
+</linearGradient>
+</defs>
+<rect width="400" height="300" fill="url(#y1)"/>
+<!-- earthenware pot -->
+<path d="M110 190 Q110 240 200 245 Q290 240 290 190 Z" fill="#8a5a3a"/>
+<ellipse cx="200" cy="188" rx="90" ry="20" fill="#5c3a24"/>
+<ellipse cx="200" cy="185" rx="75" ry="14" fill="#f0ead8"/>
+<!-- tofu cubes -->
+<rect x="160" y="172" width="30" height="24" fill="#fffdf5" stroke="#d8cfa8" stroke-width="2"/>
+<rect x="205" y="175" width="30" height="24" fill="#fffdf5" stroke="#d8cfa8" stroke-width="2"/>
+<!-- steam -->
+<path d="M180 150 Q170 125 185 108" stroke="#ffffff" stroke-width="5" fill="none" opacity="0.7"/>
+<path d="M215 148 Q205 122 220 105" stroke="#ffffff" stroke-width="5" fill="none" opacity="0.7"/>
+<!-- kombu -->
+<path d="M170 182 Q180 175 195 182" stroke="#2f6d4f" stroke-width="3" fill="none"/>
+</svg>

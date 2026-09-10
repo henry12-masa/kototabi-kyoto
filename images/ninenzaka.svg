@@ -1,0 +1,28 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="g4" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#e0824a"/>
+<stop offset="100%" stop-color="#a5673f"/>
+</linearGradient>
+</defs>
+<rect width="400" height="300" fill="url(#g4)"/>
+<!-- sloped stone street -->
+<path d="M0 300 L0 260 Q200 200 400 150 V300 Z" fill="#8a7a63"/>
+<g fill="#7a6a54">
+<path d="M0 275 Q150 235 320 175" stroke="#6b5d52" stroke-width="4" fill="none"/>
+<path d="M0 290 Q150 250 340 190" stroke="#6b5d52" stroke-width="3" fill="none"/>
+</g>
+<!-- machiya houses left -->
+<rect x="10" y="160" width="70" height="90" fill="#6e2418"/>
+<polygon points="5,160 45,130 85,160" fill="#3a2a1f"/>
+<rect x="100" y="130" width="65" height="95" fill="#8a5a3a"/>
+<polygon points="95,130 132,100 170,130" fill="#3a2a1f"/>
+<!-- houses right -->
+<rect x="260" y="95" width="60" height="75" fill="#6e2418"/>
+<polygon points="255,95 290,68 325,95" fill="#3a2a1f"/>
+<rect x="330" y="75" width="55" height="65" fill="#8a5a3a"/>
+<polygon points="325,75 357,50 390,75" fill="#3a2a1f"/>
+<!-- lanterns -->
+<circle cx="90" cy="180" r="7" fill="#e0824a"/>
+<circle cx="245" cy="120" r="7" fill="#e0824a"/>
+</svg>

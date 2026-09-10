@@ -1,0 +1,29 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="g1" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#e0824a"/>
+<stop offset="100%" stop-color="#6e2418"/>
+</linearGradient>
+</defs>
+<rect width="400" height="300" fill="url(#g1)"/>
+<!-- hillside -->
+<path d="M0 220 Q120 190 200 215 T400 205 V300 H0 Z" fill="#5c3a24"/>
+<!-- maple trees -->
+<circle cx="60" cy="180" r="28" fill="#c1401f"/>
+<circle cx="330" cy="170" r="32" fill="#c1401f"/>
+<rect x="57" y="200" width="6" height="30" fill="#4c2f22"/>
+<rect x="326" y="195" width="7" height="35" fill="#4c2f22"/>
+<!-- wooden stage pillars -->
+<g fill="#8a5a3a">
+<rect x="140" y="210" width="10" height="70"/>
+<rect x="170" y="200" width="10" height="80"/>
+<rect x="200" y="195" width="10" height="85"/>
+<rect x="230" y="200" width="10" height="80"/>
+<rect x="260" y="210" width="10" height="70"/>
+</g>
+<!-- main hall -->
+<rect x="120" y="150" width="180" height="55" fill="#c1401f"/>
+<rect x="120" y="150" width="180" height="10" fill="#8a3320"/>
+<polygon points="105,150 200,105 315,150" fill="#3a2a1f"/>
+<polygon points="105,150 200,113 315,150" fill="#5c4433"/>
+</svg>

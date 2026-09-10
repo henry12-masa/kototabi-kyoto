@@ -1,0 +1,29 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="g8" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#e8c96b"/>
+<stop offset="100%" stop-color="#7a5c0e"/>
+</linearGradient>
+</defs>
+<rect width="400" height="300" fill="url(#g8)"/>
+<!-- moat -->
+<rect y="230" width="400" height="70" fill="#0e7c9d"/>
+<!-- stone wall -->
+<rect x="0" y="180" width="400" height="60" fill="#8a7a63"/>
+<g fill="#7a6a54">
+<rect x="10" y="190" width="30" height="14"/><rect x="50" y="190" width="30" height="14"/>
+<rect x="90" y="190" width="30" height="14"/><rect x="30" y="210" width="30" height="14"/>
+<rect x="70" y="210" width="30" height="14"/>
+<rect x="300" y="190" width="30" height="14"/><rect x="340" y="190" width="30" height="14"/>
+<rect x="320" y="210" width="30" height="14"/><rect x="360" y="210" width="30" height="14"/>
+</g>
+<!-- gate house -->
+<rect x="150" y="120" width="100" height="60" fill="#6e2418"/>
+<polygon points="130,120 200,85 270,120" fill="#3a2a1f"/>
+<polygon points="130,120 200,93 270,120" fill="#5c4433"/>
+<!-- gold ornaments -->
+<circle cx="200" cy="90" r="6" fill="#e8c96b"/>
+<!-- pine trees -->
+<circle cx="70" cy="160" r="20" fill="#2f6d4f"/>
+<circle cx="330" cy="155" r="22" fill="#2f6d4f"/>
+</svg>

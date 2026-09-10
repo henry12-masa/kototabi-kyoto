@@ -1,0 +1,21 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="k1" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#f6efe0"/>
+<stop offset="100%" stop-color="#c99a1e"/>
+</linearGradient>
+</defs>
+<rect width="400" height="300" fill="url(#k1)"/>
+<!-- lacquer tray -->
+<ellipse cx="200" cy="220" rx="160" ry="30" fill="#3a2a1f"/>
+<!-- small dishes -->
+<circle cx="130" cy="200" r="28" fill="#f6efe0"/>
+<circle cx="130" cy="198" r="10" fill="#c1401f"/>
+<circle cx="200" cy="190" r="32" fill="#f6efe0"/>
+<circle cx="192" cy="186" r="8" fill="#2f6d4f"/>
+<circle cx="210" cy="190" r="7" fill="#e0824a"/>
+<circle cx="270" cy="200" r="26" fill="#f6efe0"/>
+<rect x="258" y="192" width="24" height="10" fill="#8a5a3a" rx="2"/>
+<!-- chopsticks -->
+<rect x="320" y="190" width="4" height="60" fill="#8a5a3a" transform="rotate(15 320 190)"/>
+</svg>

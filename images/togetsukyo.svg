@@ -1,0 +1,27 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="g6" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#e0824a"/>
+<stop offset="100%" stop-color="#2f6d4f"/>
+</linearGradient>
+</defs>
+<rect width="400" height="300" fill="url(#g6)"/>
+<!-- mountains -->
+<path d="M0 140 Q80 90 160 135 Q240 85 320 130 Q370 105 400 125 V210 H0 Z" fill="#4a7c59"/>
+<circle cx="90" cy="115" r="16" fill="#c1401f"/>
+<circle cx="260" cy="105" r="18" fill="#e0824a"/>
+<!-- river -->
+<rect y="210" width="400" height="90" fill="#0e7c9d"/>
+<path d="M0 210 Q100 200 200 212 T400 208" fill="none" stroke="#4fc3d9" stroke-width="4" opacity="0.6"/>
+<!-- bridge -->
+<rect x="20" y="200" width="360" height="14" fill="#8a5a3a"/>
+<g stroke="#6e4a2c" stroke-width="4">
+<line x1="40" y1="214" x2="40" y2="240"/>
+<line x1="100" y1="214" x2="100" y2="240"/>
+<line x1="160" y1="214" x2="160" y2="240"/>
+<line x1="220" y1="214" x2="220" y2="240"/>
+<line x1="280" y1="214" x2="280" y2="240"/>
+<line x1="340" y1="214" x2="340" y2="240"/>
+</g>
+<rect x="20" y="192" width="360" height="6" fill="#a5673f"/>
+</svg>

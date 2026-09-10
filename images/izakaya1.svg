@@ -1,0 +1,23 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="i1" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#3a2a1f"/>
+<stop offset="100%" stop-color="#c1401f"/>
+</linearGradient>
+</defs>
+<rect width="400" height="300" fill="url(#i1)"/>
+<circle cx="90" cy="80" r="26" fill="#e0824a"/>
+<rect x="86" y="46" width="8" height="10" fill="#2a1c14"/>
+<circle cx="210" cy="60" r="26" fill="#c1401f"/>
+<rect x="206" y="26" width="8" height="10" fill="#2a1c14"/>
+<circle cx="320" cy="85" r="26" fill="#e0824a"/>
+<rect x="316" y="51" width="8" height="10" fill="#2a1c14"/>
+<rect y="220" width="400" height="80" fill="#2a1c14"/>
+<rect y="215" width="400" height="10" fill="#3a2a1f"/>
+<ellipse cx="120" cy="235" rx="40" ry="12" fill="#f0ead8"/>
+<circle cx="110" cy="232" r="7" fill="#c1401f"/>
+<circle cx="130" cy="234" r="7" fill="#f2c6a0"/>
+<ellipse cx="230" cy="238" rx="34" ry="10" fill="#f0ead8"/>
+<rect x="215" y="230" width="30" height="10" fill="#e0824a"/>
+<rect x="300" y="220" width="22" height="30" fill="#f6efe0" opacity="0.8"/>
+</svg>

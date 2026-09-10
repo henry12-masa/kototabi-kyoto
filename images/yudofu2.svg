@@ -1,0 +1,20 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="y2" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#f6efe0"/>
+<stop offset="100%" stop-color="#5c8a5c"/>
+</linearGradient>
+</defs>
+<rect width="400" height="300" fill="url(#y2)"/>
+<!-- shojin ryori tray with many small dishes -->
+<ellipse cx="200" cy="225" rx="170" ry="28" fill="#5c3a24"/>
+<circle cx="110" cy="205" r="24" fill="#fffdf5"/>
+<circle cx="110" cy="203" r="14" fill="#2f6d4f"/>
+<circle cx="170" cy="195" r="22" fill="#fffdf5"/>
+<rect x="160" y="188" width="20" height="14" fill="#e0824a"/>
+<circle cx="230" cy="200" r="24" fill="#fffdf5"/>
+<circle cx="225" cy="196" r="8" fill="#8a5a3a"/>
+<circle cx="238" cy="200" r="6" fill="#c1401f"/>
+<circle cx="290" cy="205" r="22" fill="#fffdf5"/>
+<rect x="280" y="198" width="20" height="12" fill="#e8c96b"/>
+</svg>
